@@ -51,9 +51,9 @@ Below is the structured breakdown of commercial data notebook and analytics plat
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects, engines, and extensions for interactive computing, sorted by **GitHub Star Count** (descending).
+Curated open-source projects, engines, and extensions for interactive computing, sorted by **GitHub Stars_Count** (descending).
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[marimo-team/marimo](https://github.com/marimo-team/marimo)** | [![marimo Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers) | Modern reactive Python notebook stored as pure Python scripts—reproducible, git-friendly, and executable as apps. |
 | **[ipython/ipython](https://github.com/ipython/ipython)** | [![IPython Stars](https://img.shields.io/github/stars/ipython/ipython?style=social&color=white)](https://github.com/ipython/ipython/stargazers) | Powerful interactive Python shell and kernel underpinning the Jupyter ecosystem. |
